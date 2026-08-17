@@ -9,19 +9,20 @@
 | [**nsus**](https://github.com/devxian96/nsus) | `useState`만으로는 상태를 다 감당할 수 없어서 | `TypeScript` |
 | [**no-lib-club**](https://github.com/devxian96/no-lib-club) | 라이브러리 없이 어디까지 되는지 궁금해서 | `TypeScript` |
 | [**linux-monitor**](https://github.com/devxian96/linux-mornitor) | 서버 상태를 브라우저에서 보고 싶어서 | `JavaScript` |
-| [**BackMusic**](https://github.com/devxian96/BackMusic) | 윈도우에서 배경음악만 조용히 틀고 싶어서 | `AutoIt` |
 
 프레임워크가 없어서 만들었고, 라이브러리가 아쉬워서 만들었고,
 라이브러리 없이도 되는지 궁금해서 클럽을 만들었습니다.
 
 ### 지금
 
-**Cafe24** 에디봇 — 쇼핑몰 상세페이지를 브라우저에서 편집하는 에디터를 만듭니다. (2021.10 ~ )
+**Cafe24** — [AI 홈페이지 빌더](https://homebuilder.cafe24.com/)를 만듭니다.
 
-- HTML · Blob · SVG · Canvas를 겹쳐 만든 이미지 블러 필터
-- 사용자 UI 기반 클라이언트 에러 트래커 로그 수집기 (Sentry.io와 비슷한 것을 직접)
-- 스티커 자유 변형, 텍스트 길이에 따른 자동 크기 조절
-- 편집 중인 상세페이지 저장 / 불러오기 (JS · PHP · Redis)
+업종만 고르면 AI가 홈페이지 한 채를 통째로 지어주고, 대화로 문구·이미지·색·분위기를 고쳐 나갑니다.
+코드를 못 쓰는 사람도 자기 웹사이트를 가질 수 있게 하는 일. 결국 "없으면 만든다"를
+남의 몫으로 넘겨주는 도구를 만드는 셈입니다.
+
+이전에는 같은 회사에서 에디봇(쇼핑몰 상세페이지 에디터)을 만들었습니다.
+Canvas·SVG·Blob을 겹친 이미지 필터, Sentry 비슷한 클라이언트 에러 트래커를 직접 붙였습니다.
 
 ### 쓰는 것들
 
@@ -37,12 +38,6 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 덧
-
-정보보안에 진심이던 시절이 있었습니다. 배틀그라운드 핵 개발 취약점, 운전면허 갱신 조회 서비스의
-개인정보 노출까지 네 번 제보했고, "그런 취약점은 없다"는 답변과 함께 당일 조용히 패치되는 걸 보고
-방향을 바꿨습니다. 지금은 부수는 쪽 대신 만드는 쪽에 있습니다.
-
 <br>
 
 <a href="https://devxian96.github.io/PortfolioNuxt/">
@@ -51,8 +46,3 @@
 <a href="mailto:coolman555@me.com">
   <img src="https://img.shields.io/badge/Mail-0B0E14?style=for-the-badge&logo=maildotru&logoColor=4FD1C5" alt="Mail">
 </a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=devxian96&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4FD1C5&text_color=8B95A5&icon_color=4FD1C5&hide_title=true" alt="GitHub stats" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxian96&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4FD1C5&text_color=8B95A5" alt="Top languages" height="160">

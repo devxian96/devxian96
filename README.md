@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="devxian96 · 장석현 · Full-Stack Engineer @ Cafe24 · 없으면 만든다" width="100%">
+<img src="./assets/banner-00aaff.svg" alt="devxian96 · 장석현 · Full-Stack Engineer @ Cafe24 · 없으면 만든다" width="100%">
 
 ### 없어서 만들었습니다
 

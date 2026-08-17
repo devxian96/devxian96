@@ -26,17 +26,17 @@ Canvas·SVG·Blob을 겹친 이미지 필터, Sentry 비슷한 클라이언트 �
 
 ### 쓰는 것들
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=00AAFF)
-![React](https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=00AAFF)
-![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=00AAFF)
-![Vue](https://img.shields.io/badge/Vue-0B1220?style=flat-square&logo=vuedotjs&logoColor=00AAFF)
-![Nuxt](https://img.shields.io/badge/Nuxt-0B1220?style=flat-square&logo=nuxtdotjs&logoColor=00AAFF)
-![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs&logoColor=00AAFF)
-![PHP](https://img.shields.io/badge/PHP-0B1220?style=flat-square&logo=php&logoColor=00AAFF)
-![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=00AAFF)
-![Redis](https://img.shields.io/badge/Redis-0B1220?style=flat-square&logo=redis&logoColor=00AAFF)
-![Electron](https://img.shields.io/badge/Electron-0B1220?style=flat-square&logo=electron&logoColor=00AAFF)
-![Figma](https://img.shields.io/badge/Figma-0B1220?style=flat-square&logo=figma&logoColor=00AAFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 <br>
 
